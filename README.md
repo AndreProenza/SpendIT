@@ -38,7 +38,7 @@ The final goal was to produce a project canvas aggregating all the data regardin
 * **André Proença** - [GitHub](https://github.com/AndreProenza)
 * **Manuel Sokolov** - [GitHub](#)
 * **Guilherme Teixeira** - [GitHub](#)
-* **Konstantin** - [GitHub](#)
+* **Konstantin Yakovlev** - [GitHub](#)
 
 ---
 
