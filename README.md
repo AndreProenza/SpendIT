@@ -2,11 +2,11 @@
 Automatic finance manager with analytical AI
 
 
-## Goals
+## Introduction
 
-Design an innovative digital service provided by a public administration organism to the community by applying design methods, techniques, and tools. Artifacts of design such as problem and solution frameworks, empathy and affinity maps, service models, storyboards, wireframes, and project canvas are developed. 
+SpendIT is an idea for an innovative digital service which can be provided by a public administration organism to the community, through the application of design methods, techniques and tools. SpendIT is composed by design artifacts such as problem and solution frameworks, empathy and affinity maps, service models, storyboards, wireframes, and a project canvas. 
 
-The goal of SpendIT is to analyze and design, not actually to implement a solution.
+SpendIT's main purpose is not actually to implement a solution, but rather to analyze and design an innovative idea.
 
 ---
 
@@ -14,7 +14,7 @@ The goal of SpendIT is to analyze and design, not actually to implement a soluti
 1. [Introduction](#introduction)
 2. [Used Technologies](#used-technologies)
 3. [Authors](#authors)
-4. [SpendIT Information](#sendit-information)
+4. [SpendIT Information](#spendit-information)
 
 ---
 
