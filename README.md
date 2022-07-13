@@ -15,9 +15,18 @@ SpendIT's main purpose is not actually to implement a solution, but rather to an
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Used Technologies](#used-technologies)
-3. [Concept (Braninstorming)](#concept-(braninstorming))
-4. [Authors](#authors)
-5. [SpendIT Information](#spendit-information)
+3. [Concept](#concept)
+4. [Problem Framework](#problem-framework)
+5. [Interview Question Guide Questions in Portuguese](#interview-question-guide-questions-in-portuguese)
+6. [Solution Framework](#solution-framework)
+7. [Affinity Map](#affinity-map)
+8. [Empathy Maps](#empathy-maps)
+9. [Service Model](#service-model)
+10. [Prototyping](#prototyping)
+11. [Storyboard](#storyboard)
+12. [Project Canvas](#project-canvas)
+13. [Authors](#authors)
+14. [SpendIT Information](#spendit-information)
 
 ---
 
@@ -30,7 +39,7 @@ The final goal was to produce a project canvas aggregating all the data regardin
 
 ---
 
-## Concept (Braninstorming)
+## Concept
 
 ![ProjectCanvas-01](https://user-images.githubusercontent.com/78174997/178813900-1b8f7528-4fc3-4ec9-8993-99ffe8cc167f.jpg)
 
@@ -42,7 +51,7 @@ The final goal was to produce a project canvas aggregating all the data regardin
 
 ---
 
-## Interview Question Guide (Questions in Portuguese)
+## Interview Question Guide Questions in Portuguese
 
 ![ProjectCanvas-03](https://user-images.githubusercontent.com/78174997/178813999-7ba59613-e04e-4df4-ae53-f6544500c2e5.jpg)
 
