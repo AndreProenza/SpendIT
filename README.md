@@ -164,6 +164,6 @@ The final goal was to produce a project canvas aggregating all the data regardin
 
 ## SpendIT Information
 
-The SpendIT idea was supervised and appraised by [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en)
+The SpendIT idea was supervised and appraised by [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) during the course Information Systems Analysis and Design
 
 ---
