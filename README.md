@@ -14,7 +14,6 @@ SpendIT's main purpose is not actually to implement a solution, but rather to an
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Used Technologies](#used-technologies)
 3. [Concept](#concept)
 4. [Problem Framework](#problem-framework)
 5. [Interview Question Guide Questions in Portuguese](#interview-question-guide-questions-in-portuguese)
