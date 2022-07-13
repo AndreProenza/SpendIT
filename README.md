@@ -15,8 +15,9 @@ SpendIT's main purpose is not actually to implement a solution, but rather to an
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Used Technologies](#used-technologies)
-3. [Authors](#authors)
-4. [SpendIT Information](#spendit-information)
+3. [Concept (Braninstorming)](#concept-(braninstorming))
+4. [Authors](#authors)
+5. [SpendIT Information](#spendit-information)
 
 ---
 
