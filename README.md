@@ -20,6 +20,9 @@ SpendIT's main purpose is not actually to implement a solution, but rather to an
 
 ## Project View
 
+The conception and production of the idea took about 14 weeks, during which each week a different artifact was produced as mentioned in the image below.
+The final goal was to produce a project canvas aggregating all the data regarding the artifacts produced in each week.
+
 ![image](https://user-images.githubusercontent.com/78174997/178466039-5abedd6f-e31a-4eef-87ed-0c6e0fed46ef.png)
 
 ---
