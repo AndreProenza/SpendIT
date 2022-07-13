@@ -121,7 +121,7 @@ The final goal was to produce a project canvas aggregating all the data regardin
 
 ## Storyboard
 
-** The StoryBoard can be found [here](https://github.com/AndreProenza/SpendIT/blob/main/StoryBoard.pdf) in pdf format **
+***The StoryBoard can be found [here](https://github.com/AndreProenza/SpendIT/blob/main/StoryBoard.pdf) in pdf format***
 
 ### First Contact
 
