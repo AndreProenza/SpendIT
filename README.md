@@ -156,7 +156,7 @@ The final goal was to produce a project canvas aggregating all the data regardin
 ## Authors
 
 * **André Proença** - [GitHub](https://github.com/AndreProenza)
-* **Manuel Sokolov** - [GitHub](#)
+* **Manuel Sokolov** - [GitHub](https://github.com/ManuelSokolov)
 * **Guilherme Teixeira** - [GitHub](#)
 * **Konstantin Yakovlev** - [GitHub](#)
 
